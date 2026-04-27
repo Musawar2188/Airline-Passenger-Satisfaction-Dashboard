@@ -1,2 +1,2 @@
 # Airline-Passenger-Satisfaction-Dashboard
-An interactive Power BI dashboard analyzing passenger satisfaction and flight performance data to identify key drivers of customer loyalty and operational delays.
+A comprehensive Power BI analysis of 129K+ passenger records to uncover root causes of dissatisfaction. This project transforms raw flight data into actionable insights, focusing on the impact of delays and service classes on the 43% satisfaction rate.
